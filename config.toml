@@ -91,7 +91,7 @@ theme = "hugo-elate-theme"
   [params.testimonials]
     enable = true
     title = "Why Tech Skills are the most Important skills of 21st Century?"
-    description = "Technological advancements in the last 10 years have changed the way we communicate, the way we buy things, the way we do banking, the way we learn, etc. This is only going to get better going forward. Knowing technological skills will be important and basic as knowing how to read and write. <b>Irrespective of the job our kids are going to be doing in the future Computer skills will play a very big role in their growth and success.</b>"
+    description = "Technological advancements in the last 10 years have changed the way we communicate, the way we do the banking, the way we learn, the way we entertain ourselves and pretty much everything in our lives has changed. This is only going to get better going forward. Technological skills will be as important and basic as knowing how to read and write. <b>Irrespective of the jobs today's kids are going to be doing in the future, Computer skills will play a very big role in their growth and success.</b>"
 
     [[params.testimonials.item]]
       quote = "&ldquo;Everybody in this country should know how to learn to program a computer.. because it teaches you how to think.&rdquo;"
