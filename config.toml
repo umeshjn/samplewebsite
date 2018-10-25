@@ -111,12 +111,6 @@ theme = "hugo-elate-theme"
       img = "person3.jpg"
       alt = "Person3"
     
-    [[params.testimonials.item]]
-      quote = "&ldquo; Top 10 Companies of the world before 10 years were all Industial and Oil Companies. But today majority of them are all Technological Companies. &rdquo;"
-      person = 'Barack Obama <span class="subtext">Former President</span>'
-      img = "person3.jpg"
-      alt = "Person3"
-
   # About section
   [params.about]
     enable = true
