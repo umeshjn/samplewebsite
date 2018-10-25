@@ -65,7 +65,7 @@ theme = "hugo-elate-theme"
   [params.services]
     enable = true
     title = "Courses"
-    description = "We have curated the best courses in the world to teach topics ranging various skills which we consider the most important ones for the creators of tomorrow. "
+    description = "We use the best tools and technologies to teach the kids most important skills of the 21st Century. These are tested and proven in technologically advanced countries."
 
     [[params.services.item]]
       title = "Coding"
