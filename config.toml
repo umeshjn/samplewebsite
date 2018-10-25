@@ -160,7 +160,7 @@ theme = "hugo-elate-theme"
   [params.contact]
     enable = true
     map = false
-    form = true
+    form = false
     title = "Get in touch"
     description = "For more information on the Courses"
     
