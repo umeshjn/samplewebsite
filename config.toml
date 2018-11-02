@@ -181,7 +181,7 @@ theme = "hugo-elate-theme"
   # Footer section
   [params.footer]
     enable = true
-    copyright = '&copy; Tech Garage. All Rights Reserved. <br>Created by Tech Garage Images: <a href="https://www.flaticon.com" target="_blank">Flaticon</a>'
+    copyright = '&copy; Tech Garage. All Rights Reserved. <br>Created by Tech Garage <br> Images: <a href="https://www.flaticon.com" target="_blank">Flaticon</a>'
     links = [
         ["icon-twitter", "#twitter"],
         ["icon-facebook", "#facebook"],
