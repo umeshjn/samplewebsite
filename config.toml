@@ -1,6 +1,6 @@
 # Page settings
 baseurl = "localhost:1313"
-title = "TechGarage"
+title = "NurtureMakers"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
 
