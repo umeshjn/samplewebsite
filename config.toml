@@ -1,6 +1,6 @@
 # Page settings
 baseurl = "localhost:1313"
-title = "Young Tech Garage"
+title = "Tech Garage"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
 
@@ -18,7 +18,7 @@ theme = "hugo-elate-theme"
 
   # Navigation
   [params.navigation]
-    brand = "Young Tech Garage"
+    brand = "Tech Garage"
     home = "Home"
     services = "Courses"
     work = "We Teach"
