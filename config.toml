@@ -1,6 +1,6 @@
 # Page settings
 baseurl = "localhost:1313"
-title = "NurtureMakers"
+title = "FutureSmartLabs"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
 
@@ -18,7 +18,7 @@ theme = "hugo-elate-theme"
 
   # Navigation
   [params.navigation]
-    brand = "TechGarage"
+    brand = "Future Smart Labs"
     home = "Home"
     services = "Courses"
     work = "We Teach"
